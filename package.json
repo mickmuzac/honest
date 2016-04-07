@@ -1,0 +1,19 @@
+{
+  "name": "squeaky",
+  "version": "0.0.2",
+  "description": "Sanitization and validation made easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickmuzac/squeaky.git"
+  },
+  "author": "Mick Muzac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mickmuzac/squeaky/issues"
+  },
+  "homepage": "https://github.com/mickmuzac/squeaky#readme"
+}
