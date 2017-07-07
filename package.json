@@ -1,6 +1,6 @@
 {
-  "name": "squeaky",
-  "version": "0.0.2",
+  "name": "honest",
+  "version": "0.0.1a",
   "description": "Sanitization and validation made easy",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mickmuzac/squeaky.git"
+    "url": "git+https://github.com/mickmuzac/honest.git"
   },
   "author": "Mick Muzac",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mickmuzac/squeaky/issues"
+    "url": "https://github.com/mickmuzac/honest/issues"
   },
-  "homepage": "https://github.com/mickmuzac/squeaky#readme"
+  "homepage": "https://github.com/mickmuzac/honest#readme"
 }
