@@ -37,4 +37,4 @@ class Helper {
 Honest.email = /^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/;
 Honest.alphaNumeric = /^[a-zA-Z0-9]+$/;
 
-modules.exports = Honest;
+module.exports = Honest;
