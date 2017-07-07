@@ -2,7 +2,7 @@
   "name": "honest",
   "version": "0.0.1a",
   "description": "Sanitization and validation made easy",
-  "main": "index.js",
+  "main": "src/honest.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
