@@ -13,12 +13,13 @@ class Helper {
     }
 
     length(min = 0, max = 0) {
+      const str = this.str;
       this.isValid &= !!str && str.length >= min && str.length <= max;
       return this;
     }
 
     alphaNumeric() {
-      this.isValid &= Honest.alphaNumeric.test(str);
+      this.isValid &= Honest.alphaNumeric.test(this.str);
       return this;
     }
 
